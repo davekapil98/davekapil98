@@ -6,7 +6,7 @@
 🚀 Passionate about combining engineering with cutting-edge technologies to solve real-world challenges.
 🔗 Always eager to learn, collaborate, and contribute to open-source projects.
 📚 Let’s connect! Open to discussions on tech, engineering, networking, cybersecurity, and the exciting world of making.
-📂 Check out my projects portfolio: Portfolio @h ttps://www.canva.com/design/DAGZP-JFtaI/BVE8HFD6s0eDkGsIwcJGXg/view?utm_content=DAGZP-JFtaI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h105c872141
+📂 Check out my projects portfolio: Portfolio @ https://www.canva.com/design/DAGZP-JFtaI/BVE8HFD6s0eDkGsIwcJGXg/view?utm_content=DAGZP-JFtaI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h105c872141
 <!---
 davekapil98/davekapil98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
